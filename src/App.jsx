@@ -672,7 +672,7 @@ function App() {
         </p>
 
         <a
-          href="mailto:ucanreach@gmail.com"
+          href="mailto:ucanreachayan@gmail.com"
           className="primary-button"
         >
           Send Me an Email
