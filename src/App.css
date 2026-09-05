@@ -142,6 +142,9 @@ a {
 
 .hero h1 span {
   color: #00ff66;
+  display: inline-block;
+  white-space: nowrap;
+  word-spacing: 8px;
 }
 
 
