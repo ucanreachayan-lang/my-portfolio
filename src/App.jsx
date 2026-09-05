@@ -120,6 +120,17 @@ function App() {
 
       {/* Hero */}
       <section className="hero">
+        <div className="profile-photo-card">
+  <div className="profile-photo-frame">
+    <img src="/profile.jpg" alt="Ayan Sarkar" />
+    <div className="scan-line"></div>
+  </div>
+
+  <div className="profile-info">
+    <span>USER_ID: AYAN_SARKAR</span>
+    <span>STATUS: <b>ONLINE</b></span>
+  </div>
+</div>
 
         <p className="terminal-line">
           <Typewriter />
